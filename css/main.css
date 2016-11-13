@@ -1122,7 +1122,7 @@ header .logo a {
 	border: none;
 	width: 96px;
 	height: 20px;
-	background: url("../images/logo.png") no-repeat center;
+	background: none;
 	background-size: 96px 20px;
 	font: 0/0 a;
 	text-shadow: none;
@@ -1383,7 +1383,7 @@ header .logo a {
 	font-family: "domine-bold", serif;
 	font-size: 5.3rem;
 	line-height: 1.267;
-	color: #ed254d;
+	color: #FFFFFF;
 	padding: 0 12%;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
@@ -1519,7 +1519,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #features {
 	padding: 15rem 0 12rem;
-	background-color: #f9da4f;
+	background-color: #FFF;
 	overflow: hidden;
 }
 
